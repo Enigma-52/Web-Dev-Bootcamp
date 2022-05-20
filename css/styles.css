@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+
+hr {
+    border-style: none;
+    border-color: grey;
+    border-width: 3px;
+    border-top-style: dotted;
+    width: 70%;
+
+} 
+
+/* CLASS SELECTORS */
+
+.abcd{
+    background-color: green;
+}
