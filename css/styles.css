@@ -1,3 +1,5 @@
+           /* TAG SELECTORS */
+
 body {
     background-color: aquamarine;
 }
@@ -11,8 +13,19 @@ hr {
 
 } 
 
-/* CLASS SELECTORS */
+         /* CLASS SELECTORS */
 
 .abcd{
     background-color: green;
 }
+
+.none{
+    border-radius: 10px;
+}
+
+        /* ID SELECTORS */
+
+#heading{
+    color: blue;
+}
+
