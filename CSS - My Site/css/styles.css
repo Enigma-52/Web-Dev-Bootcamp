@@ -1,5 +1,4 @@
 body{
-    margin: 0;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -15,14 +14,21 @@ h1{
     padding-top: 100px;
 }
 
-.middle-container{
+.compic{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.skill-row {
+    margin: 90px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    mar
     
 }
-
-.bottom-container {
-
-}
-
 
 .pro{
     text-decoration: underline;
